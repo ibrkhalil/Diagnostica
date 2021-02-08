@@ -26,7 +26,7 @@ class App extends Component {
 
     return (
       <div className="loginForm">
-        <Login />
+        {/* <Login /> */}
  
 
         {/* <Registration  /> */}
