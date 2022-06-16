@@ -1,2 +1,2 @@
 # Diagnostica
-Let's do this 
+Test app for medical diagnosis using a react UI
